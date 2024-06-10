@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspnet_ecomerce_react_app.Server", "Aspnet_ecomerce_react_app.Server\Aspnet_ecomerce_react_app.Server.csproj", "{2C95BA35-45AB-4E76-8396-BAD57985E0B2}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "aspnet_ecomerce_react_app.client", "aspnet_ecomerce_react_app.client\aspnet_ecomerce_react_app.client.esproj", "{C12EE15D-8A25-4E3A-88F5-701130DA516D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C95BA35-45AB-4E76-8396-BAD57985E0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C95BA35-45AB-4E76-8396-BAD57985E0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C95BA35-45AB-4E76-8396-BAD57985E0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C95BA35-45AB-4E76-8396-BAD57985E0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12EE15D-8A25-4E3A-88F5-701130DA516D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12EE15D-8A25-4E3A-88F5-701130DA516D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12EE15D-8A25-4E3A-88F5-701130DA516D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C12EE15D-8A25-4E3A-88F5-701130DA516D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12EE15D-8A25-4E3A-88F5-701130DA516D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12EE15D-8A25-4E3A-88F5-701130DA516D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FED07B-FD5E-4FBD-A8C7-AAA9BFC1BC1D}
+	EndGlobalSection
+EndGlobal

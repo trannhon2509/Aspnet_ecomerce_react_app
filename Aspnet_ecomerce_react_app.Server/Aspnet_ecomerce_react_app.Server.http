@@ -1,0 +1,6 @@
+@Aspnet_ecomerce_react_app.Server_HostAddress = http://localhost:5105
+
+GET {{Aspnet_ecomerce_react_app.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
